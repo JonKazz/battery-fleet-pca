@@ -1,0 +1,73 @@
+method,description,k,energy_in_decomposed_space,rel_frobenius_mw,fleet_rmse_mw,fleet_r2,mean_unit_rmse_mw
+svd_raw,Section 10.4 SVD of the raw MW matrix,1,0.537737,0.679899,249.397,0.994473,11.361
+pca_centered,"PCA, mean subtracted",1,0.536752,0.679671,248.23,0.994525,11.356
+pca_standardized,"PCA, mean subtracted and standardized",1,0.412735,0.692366,450.893,0.981935,11.475
+svd_raw,Section 10.4 SVD of the raw MW matrix,2,0.573664,0.652944,247.823,0.994543,10.98
+pca_centered,"PCA, mean subtracted",2,0.572778,0.652707,246.636,0.994595,10.974
+pca_standardized,"PCA, mean subtracted and standardized",2,0.450956,0.681061,287.002,0.992681,11.284
+svd_raw,Section 10.4 SVD of the raw MW matrix,3,0.600176,0.632317,236.407,0.995034,10.72
+pca_centered,"PCA, mean subtracted",3,0.599359,0.632076,235.123,0.995088,10.714
+pca_standardized,"PCA, mean subtracted and standardized",3,0.477789,0.670469,285.291,0.992768,11.091
+svd_raw,Section 10.4 SVD of the raw MW matrix,4,0.62585,0.611678,229.711,0.995311,10.402
+pca_centered,"PCA, mean subtracted",4,0.625086,0.611445,228.317,0.995368,10.397
+pca_standardized,"PCA, mean subtracted and standardized",4,0.503013,0.65417,280.165,0.993025,10.818
+svd_raw,Section 10.4 SVD of the raw MW matrix,5,0.647034,0.594109,179.292,0.997144,10.142
+pca_centered,"PCA, mean subtracted",5,0.646319,0.593879,178.305,0.997175,10.137
+pca_standardized,"PCA, mean subtracted and standardized",5,0.523767,0.641075,269.564,0.993543,10.576
+svd_raw,Section 10.4 SVD of the raw MW matrix,6,0.666942,0.577112,176.258,0.997239,9.884
+pca_centered,"PCA, mean subtracted",6,0.666271,0.576884,175.18,0.997273,9.878
+pca_standardized,"PCA, mean subtracted and standardized",6,0.542071,0.633943,256.739,0.994143,10.426
+svd_raw,Section 10.4 SVD of the raw MW matrix,7,0.685017,0.561233,161.925,0.99767,9.68
+pca_centered,"PCA, mean subtracted",7,0.684398,0.560999,160.763,0.997703,9.674
+pca_standardized,"PCA, mean subtracted and standardized",7,0.557028,0.627618,255.596,0.994195,10.311
+svd_raw,Section 10.4 SVD of the raw MW matrix,8,0.700492,0.547273,149.106,0.998024,9.486
+pca_centered,"PCA, mean subtracted",8,0.699904,0.547044,148.096,0.998051,9.481
+pca_standardized,"PCA, mean subtracted and standardized",8,0.569954,0.619101,214.237,0.995922,10.17
+svd_raw,Section 10.4 SVD of the raw MW matrix,9,0.715194,0.533672,147.514,0.998066,9.284
+pca_centered,"PCA, mean subtracted",9,0.714646,0.533438,146.477,0.998093,9.279
+pca_standardized,"PCA, mean subtracted and standardized",9,0.582005,0.605934,199.116,0.996477,9.977
+svd_raw,Section 10.4 SVD of the raw MW matrix,10,0.728851,0.52072,147.327,0.998071,9.088
+pca_centered,"PCA, mean subtracted",10,0.728326,0.520495,146.304,0.998098,9.083
+pca_standardized,"PCA, mean subtracted and standardized",10,0.593818,0.598276,198.751,0.99649,9.837
+svd_raw,Section 10.4 SVD of the raw MW matrix,11,0.74111,0.508813,147.031,0.998079,8.909
+pca_centered,"PCA, mean subtracted",11,0.740605,0.508596,146.071,0.998104,8.904
+pca_standardized,"PCA, mean subtracted and standardized",11,0.60423,0.590887,192.628,0.996703,9.716
+svd_raw,Section 10.4 SVD of the raw MW matrix,12,0.752843,0.497149,145.97,0.998107,8.743
+pca_centered,"PCA, mean subtracted",12,0.752354,0.496944,145.082,0.99813,8.739
+pca_standardized,"PCA, mean subtracted and standardized",12,0.614096,0.583103,191.523,0.996741,9.585
+svd_raw,Section 10.4 SVD of the raw MW matrix,13,0.763586,0.486224,142.784,0.998188,8.598
+pca_centered,"PCA, mean subtracted",13,0.763113,0.486029,141.937,0.99821,8.593
+pca_standardized,"PCA, mean subtracted and standardized",13,0.622689,0.579063,190.841,0.996764,9.502
+svd_raw,Section 10.4 SVD of the raw MW matrix,14,0.773762,0.475644,142.783,0.998188,8.448
+pca_centered,"PCA, mean subtracted",14,0.773317,0.475446,141.935,0.99821,8.443
+pca_standardized,"PCA, mean subtracted and standardized",14,0.631156,0.572941,190.479,0.996776,9.402
+svd_raw,Section 10.4 SVD of the raw MW matrix,15,0.782435,0.466439,141.764,0.998214,8.305
+pca_centered,"PCA, mean subtracted",15,0.782014,0.466237,140.923,0.998235,8.3
+pca_standardized,"PCA, mean subtracted and standardized",15,0.638709,0.567576,188.293,0.99685,9.299
+svd_raw,Section 10.4 SVD of the raw MW matrix,16,0.790776,0.45741,138.379,0.998298,8.173
+pca_centered,"PCA, mean subtracted",16,0.790379,0.457204,137.551,0.998319,8.168
+pca_standardized,"PCA, mean subtracted and standardized",16,0.64616,0.564018,188.132,0.996855,9.209
+svd_raw,Section 10.4 SVD of the raw MW matrix,17,0.798925,0.448414,138.374,0.998299,8.039
+pca_centered,"PCA, mean subtracted",17,0.798549,0.448205,137.548,0.998319,8.035
+pca_standardized,"PCA, mean subtracted and standardized",17,0.653543,0.557674,186.873,0.996897,9.097
+svd_raw,Section 10.4 SVD of the raw MW matrix,18,0.806593,0.43978,130.896,0.998478,7.905
+pca_centered,"PCA, mean subtracted",18,0.806235,0.439571,130.19,0.998494,7.9
+pca_standardized,"PCA, mean subtracted and standardized",18,0.660353,0.553605,182.011,0.997056,9.014
+svd_raw,Section 10.4 SVD of the raw MW matrix,19,0.813871,0.431427,130.292,0.998492,7.775
+pca_centered,"PCA, mean subtracted",19,0.813533,0.431214,129.574,0.998508,7.77
+pca_standardized,"PCA, mean subtracted and standardized",19,0.666931,0.54787,181.24,0.997081,8.916
+svd_raw,Section 10.4 SVD of the raw MW matrix,20,0.820766,0.42336,127.469,0.998556,7.653
+pca_centered,"PCA, mean subtracted",20,0.820442,0.423149,126.853,0.99857,7.648
+pca_standardized,"PCA, mean subtracted and standardized",20,0.673374,0.544477,180.641,0.9971,8.846
+svd_raw,Section 10.4 SVD of the raw MW matrix,30,0.876337,0.351657,99.446,0.999121,6.508
+pca_centered,"PCA, mean subtracted",30,0.876135,0.351452,99.749,0.999116,6.503
+pca_standardized,"PCA, mean subtracted and standardized",30,0.727171,0.505742,167.682,0.997502,8.15
+svd_raw,Section 10.4 SVD of the raw MW matrix,40,0.91389,0.293444,87.466,0.99932,5.531
+pca_centered,"PCA, mean subtracted",40,0.913779,0.293224,87.063,0.999326,5.526
+pca_standardized,"PCA, mean subtracted and standardized",40,0.770113,0.472203,142.977,0.998183,7.58
+svd_raw,Section 10.4 SVD of the raw MW matrix,60,0.958342,0.204104,67.81,0.999591,3.888
+pca_centered,"PCA, mean subtracted",60,0.958318,0.203875,67.709,0.999593,3.883
+pca_standardized,"PCA, mean subtracted and standardized",60,0.835395,0.407672,118.27,0.998757,6.501
+svd_raw,Section 10.4 SVD of the raw MW matrix,80,0.97974,0.142338,45.269,0.999818,2.717
+pca_centered,"PCA, mean subtracted",80,0.97974,0.142137,45.472,0.999816,2.712
+pca_standardized,"PCA, mean subtracted and standardized",80,0.881512,0.35463,103.534,0.999047,5.599

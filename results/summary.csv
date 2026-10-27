@@ -1,0 +1,10 @@
+item,value
+window_start,2026-07-01
+window_end,2026-07-28
+n_hours,672
+n_batteries,297
+mean_net_mw,-0.8593
+median_abs_battery_mean_mw,0.5087
+median_hsl_mw,50.0
+fleet_mean_mw,-255.208
+fleet_std_mw,3357.161
