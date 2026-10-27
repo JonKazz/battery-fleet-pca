@@ -6,6 +6,8 @@
 \usepackage{booktabs}
 \usepackage{amsmath}
 \usepackage{float}
+\usepackage{hyperref}
+\hypersetup{hidelinks}
 
 \onehalfspacing
 \setlength{\parskip}{0.15em}
@@ -69,9 +71,14 @@ The sign change falls in the 18:00 hour.
 
 \section{The code}
 
-\texttt{research/pca\_battery/01\_fleet\_pca.py} implements both procedures the assignment asks for.
-\texttt{pca\_reconstruct} is section 10.6.
-\texttt{truncated\_svd} is section 10.4.
+The code and this report are posted here:
+
+\url{https://github.com/JonKazz/battery-fleet-pca}
+
+\texttt{01\_fleet\_pca.py} implements both procedures.
+\texttt{pca\_reconstruct} in that file is section 10.6.
+\texttt{truncated\_svd} in that file is section 10.4.
+\texttt{02\_figures.py} draws the two figures from the tables in \texttt{results/}.
 
 The PCA routine has five steps.
 Subtract each battery's mean over the 672 hours.
